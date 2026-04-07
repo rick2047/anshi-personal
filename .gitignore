@@ -1,0 +1,10 @@
+node_modules/
+
+# Local debug and audit screenshots
+.codex-*.png
+.home-*.png
+.experience-*.png
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
