@@ -1,0 +1,4302 @@
+{
+  "top_merchants_by_fraud_count": [
+    {
+      "merchant": "fraud_Kilback LLC",
+      "fraud_count": 62,
+      "fraud_amount": 17253.35,
+      "most_common_state": "CA",
+      "most_common_city": "Annapolis",
+      "avg_merch_lat": 37.9997,
+      "avg_merch_long": -92.8796
+    },
+    {
+      "merchant": "fraud_Kozey-Boehm",
+      "fraud_count": 60,
+      "fraud_amount": 60410.62,
+      "most_common_state": "NY",
+      "most_common_city": "Cass",
+      "avg_merch_lat": 38.6111,
+      "avg_merch_long": -89.6394
+    },
+    {
+      "merchant": "fraud_Rau and Sons",
+      "fraud_count": 60,
+      "fraud_amount": 18810.28,
+      "most_common_state": "PA",
+      "most_common_city": "Birmingham",
+      "avg_merch_lat": 38.356,
+      "avg_merch_long": -89.9982
+    },
+    {
+      "merchant": "fraud_Doyle Ltd",
+      "fraud_count": 57,
+      "fraud_amount": 17854.06,
+      "most_common_state": "NY",
+      "most_common_city": "Adams",
+      "avg_merch_lat": 40.0331,
+      "avg_merch_long": -89.0008
+    },
+    {
+      "merchant": "fraud_Terry-Huel",
+      "fraud_count": 56,
+      "fraud_amount": 55203.84,
+      "most_common_state": "PA",
+      "most_common_city": "Beaver Falls",
+      "avg_merch_lat": 38.9454,
+      "avg_merch_long": -90.6529
+    },
+    {
+      "merchant": "fraud_Boyer PLC",
+      "fraud_count": 55,
+      "fraud_amount": 51363.53,
+      "most_common_state": "OH",
+      "most_common_city": "Minneapolis",
+      "avg_merch_lat": 39.5196,
+      "avg_merch_long": -88.9098
+    },
+    {
+      "merchant": "fraud_Kuhn LLC",
+      "fraud_count": 55,
+      "fraud_amount": 45997.56,
+      "most_common_state": "TX",
+      "most_common_city": "Coleman",
+      "avg_merch_lat": 37.8518,
+      "avg_merch_long": -89.8637
+    },
+    {
+      "merchant": "fraud_Kuhic LLC",
+      "fraud_count": 53,
+      "fraud_amount": 54282.86,
+      "most_common_state": "NY",
+      "most_common_city": "Pea Ridge",
+      "avg_merch_lat": 38.1151,
+      "avg_merch_long": -89.5922
+    },
+    {
+      "merchant": "fraud_Kiehn-Emmerich",
+      "fraud_count": 53,
+      "fraud_amount": 16669.1,
+      "most_common_state": "PA",
+      "most_common_city": "Mc Veytown",
+      "avg_merch_lat": 39.8134,
+      "avg_merch_long": -92.4086
+    },
+    {
+      "merchant": "fraud_Cormier LLC",
+      "fraud_count": 53,
+      "fraud_amount": 49838.71,
+      "most_common_state": "FL",
+      "most_common_city": "Detroit",
+      "avg_merch_lat": 38.2826,
+      "avg_merch_long": -90.189
+    },
+    {
+      "merchant": "fraud_Mosciski, Ziemann and Farrell",
+      "fraud_count": 53,
+      "fraud_amount": 52948.65,
+      "most_common_state": "TX",
+      "most_common_city": "Luzerne",
+      "avg_merch_lat": 39.2158,
+      "avg_merch_long": -89.1773
+    },
+    {
+      "merchant": "fraud_Moen, Reinger and Murphy",
+      "fraud_count": 53,
+      "fraud_amount": 16396.46,
+      "most_common_state": "IA",
+      "most_common_city": "Arlington",
+      "avg_merch_lat": 38.9386,
+      "avg_merch_long": -88.4954
+    },
+    {
+      "merchant": "fraud_Padberg-Welch",
+      "fraud_count": 52,
+      "fraud_amount": 16237.97,
+      "most_common_state": "NY",
+      "most_common_city": "Alpharetta",
+      "avg_merch_lat": 38.848,
+      "avg_merch_long": -86.9189
+    },
+    {
+      "merchant": "fraud_Schultz, Simonis and Little",
+      "fraud_count": 52,
+      "fraud_amount": 16460.1,
+      "most_common_state": "NY",
+      "most_common_city": "Heislerville",
+      "avg_merch_lat": 38.4556,
+      "avg_merch_long": -90.4516
+    },
+    {
+      "merchant": "fraud_Langworth, Boehm and Gulgowski",
+      "fraud_count": 52,
+      "fraud_amount": 51617.94,
+      "most_common_state": "PA",
+      "most_common_city": "Achille",
+      "avg_merch_lat": 38.9306,
+      "avg_merch_long": -89.3929
+    },
+    {
+      "merchant": "fraud_Schmeler, Bashirian and Price",
+      "fraud_count": 52,
+      "fraud_amount": 51237.89,
+      "most_common_state": "NY",
+      "most_common_city": "Lohrville",
+      "avg_merch_lat": 40.4272,
+      "avg_merch_long": -90.5938
+    },
+    {
+      "merchant": "fraud_Murray-Smitham",
+      "fraud_count": 51,
+      "fraud_amount": 16122.11,
+      "most_common_state": "NY",
+      "most_common_city": "Arvada",
+      "avg_merch_lat": 38.3417,
+      "avg_merch_long": -91.5687
+    },
+    {
+      "merchant": "fraud_Jast Ltd",
+      "fraud_count": 51,
+      "fraud_amount": 50856.62,
+      "most_common_state": "PA",
+      "most_common_city": "Adams",
+      "avg_merch_lat": 37.5507,
+      "avg_merch_long": -87.8274
+    },
+    {
+      "merchant": "fraud_Heathcote, Yost and Kertzmann",
+      "fraud_count": 51,
+      "fraud_amount": 51708.5,
+      "most_common_state": "NY",
+      "most_common_city": "Burrton",
+      "avg_merch_lat": 40.3726,
+      "avg_merch_long": -88.8544
+    },
+    {
+      "merchant": "fraud_Boyer-Reichert",
+      "fraud_count": 51,
+      "fraud_amount": 51608.67,
+      "most_common_state": "PA",
+      "most_common_city": "Paulding",
+      "avg_merch_lat": 38.7254,
+      "avg_merch_long": -87.6868
+    },
+    {
+      "merchant": "fraud_Vandervort-Funk",
+      "fraud_count": 51,
+      "fraud_amount": 16214.35,
+      "most_common_state": "OH",
+      "most_common_city": "Byesville",
+      "avg_merch_lat": 39.9,
+      "avg_merch_long": -89.6101
+    },
+    {
+      "merchant": "fraud_McDermott-Weimann",
+      "fraud_count": 51,
+      "fraud_amount": 15694.12,
+      "most_common_state": "NY",
+      "most_common_city": "Brinson",
+      "avg_merch_lat": 38.7026,
+      "avg_merch_long": -90.2862
+    },
+    {
+      "merchant": "fraud_Romaguera, Cruickshank and Greenholt",
+      "fraud_count": 51,
+      "fraud_amount": 48682.7,
+      "most_common_state": "CA",
+      "most_common_city": "Detroit",
+      "avg_merch_lat": 39.3977,
+      "avg_merch_long": -93.7048
+    },
+    {
+      "merchant": "fraud_Lemke-Gutmann",
+      "fraud_count": 50,
+      "fraud_amount": 49891.62,
+      "most_common_state": "TX",
+      "most_common_city": "Harper",
+      "avg_merch_lat": 38.7819,
+      "avg_merch_long": -90.6041
+    },
+    {
+      "merchant": "fraud_Kerluke-Abshire",
+      "fraud_count": 50,
+      "fraud_amount": 50301.53,
+      "most_common_state": "OR",
+      "most_common_city": "Dallas",
+      "avg_merch_lat": 39.1127,
+      "avg_merch_long": -96.3059
+    },
+    {
+      "merchant": "fraud_Goyette Inc",
+      "fraud_count": 50,
+      "fraud_amount": 49625.05,
+      "most_common_state": "TX",
+      "most_common_city": "Dallas",
+      "avg_merch_lat": 39.5263,
+      "avg_merch_long": -91.9827
+    },
+    {
+      "merchant": "fraud_Koepp-Witting",
+      "fraud_count": 49,
+      "fraud_amount": 15129.97,
+      "most_common_state": "OH",
+      "most_common_city": "Cochranton",
+      "avg_merch_lat": 37.6589,
+      "avg_merch_long": -92.2082
+    },
+    {
+      "merchant": "fraud_Stracke-Lemke",
+      "fraud_count": 49,
+      "fraud_amount": 15225.06,
+      "most_common_state": "NY",
+      "most_common_city": "Birmingham",
+      "avg_merch_lat": 38.9172,
+      "avg_merch_long": -85.5246
+    },
+    {
+      "merchant": "fraud_Medhurst PLC",
+      "fraud_count": 48,
+      "fraud_amount": 48245.11,
+      "most_common_state": "TX",
+      "most_common_city": "Cleveland",
+      "avg_merch_lat": 37.7543,
+      "avg_merch_long": -87.7546
+    },
+    {
+      "merchant": "fraud_Gleason-Macejkovic",
+      "fraud_count": 48,
+      "fraud_amount": 47448.87,
+      "most_common_state": "AR",
+      "most_common_city": "Arlington",
+      "avg_merch_lat": 37.8563,
+      "avg_merch_long": -91.1527
+    },
+    {
+      "merchant": "fraud_Lockman, West and Runte",
+      "fraud_count": 48,
+      "fraud_amount": 15033.16,
+      "most_common_state": "PA",
+      "most_common_city": "Dublin",
+      "avg_merch_lat": 38.7615,
+      "avg_merch_long": -89.4622
+    },
+    {
+      "merchant": "fraud_Kunze Inc",
+      "fraud_count": 48,
+      "fraud_amount": 14814.9,
+      "most_common_state": "NY",
+      "most_common_city": "Albuquerque",
+      "avg_merch_lat": 38.1688,
+      "avg_merch_long": -94.4703
+    },
+    {
+      "merchant": "fraud_Hudson-Ratke",
+      "fraud_count": 48,
+      "fraud_amount": 15026.19,
+      "most_common_state": "CA",
+      "most_common_city": "Bolton",
+      "avg_merch_lat": 38.4965,
+      "avg_merch_long": -95.4331
+    },
+    {
+      "merchant": "fraud_Kiehn Inc",
+      "fraud_count": 48,
+      "fraud_amount": 15065.16,
+      "most_common_state": "CA",
+      "most_common_city": "Beaver Falls",
+      "avg_merch_lat": 39.1285,
+      "avg_merch_long": -91.9082
+    },
+    {
+      "merchant": "fraud_Strosin-Cruickshank",
+      "fraud_count": 47,
+      "fraud_amount": 14418.17,
+      "most_common_state": "MO",
+      "most_common_city": "Albany",
+      "avg_merch_lat": 38.9943,
+      "avg_merch_long": -91.347
+    },
+    {
+      "merchant": "fraud_Huel, Hammes and Witting",
+      "fraud_count": 47,
+      "fraud_amount": 15123.41,
+      "most_common_state": "MI",
+      "most_common_city": "Arcadia",
+      "avg_merch_lat": 39.2025,
+      "avg_merch_long": -92.0107
+    },
+    {
+      "merchant": "fraud_Stanton, Jakubowski and Baumbach",
+      "fraud_count": 47,
+      "fraud_amount": 46654.57,
+      "most_common_state": "NY",
+      "most_common_city": "Acworth",
+      "avg_merch_lat": 40.5485,
+      "avg_merch_long": -89.1978
+    },
+    {
+      "merchant": "fraud_Heathcote LLC",
+      "fraud_count": 47,
+      "fraud_amount": 46656.58,
+      "most_common_state": "PA",
+      "most_common_city": "Heiskell",
+      "avg_merch_lat": 38.5187,
+      "avg_merch_long": -89.4722
+    },
+    {
+      "merchant": "fraud_Price Inc",
+      "fraud_count": 47,
+      "fraud_amount": 47150.12,
+      "most_common_state": "CA",
+      "most_common_city": "Hawthorne",
+      "avg_merch_lat": 38.1546,
+      "avg_merch_long": -91.6144
+    },
+    {
+      "merchant": "fraud_Lockman Ltd",
+      "fraud_count": 47,
+      "fraud_amount": 14712.11,
+      "most_common_state": "TX",
+      "most_common_city": "Allentown",
+      "avg_merch_lat": 38.8603,
+      "avg_merch_long": -92.652
+    },
+    {
+      "merchant": "fraud_Kuhic, Bins and Pfeffer",
+      "fraud_count": 47,
+      "fraud_amount": 47540.91,
+      "most_common_state": "GA",
+      "most_common_city": "Acworth",
+      "avg_merch_lat": 38.7946,
+      "avg_merch_long": -87.3062
+    },
+    {
+      "merchant": "fraud_Miller-Hauck",
+      "fraud_count": 47,
+      "fraud_amount": 14704.74,
+      "most_common_state": "PA",
+      "most_common_city": "Albuquerque",
+      "avg_merch_lat": 39.0407,
+      "avg_merch_long": -88.0203
+    },
+    {
+      "merchant": "fraud_Bailey-Morar",
+      "fraud_count": 47,
+      "fraud_amount": 14800.7,
+      "most_common_state": "GA",
+      "most_common_city": "North Augusta",
+      "avg_merch_lat": 38.2834,
+      "avg_merch_long": -89.8906
+    },
+    {
+      "merchant": "fraud_Greenholt, O'Hara and Balistreri",
+      "fraud_count": 46,
+      "fraud_amount": 44705.77,
+      "most_common_state": "IN",
+      "most_common_city": "Amorita",
+      "avg_merch_lat": 38.7214,
+      "avg_merch_long": -91.0365
+    },
+    {
+      "merchant": "fraud_Osinski, Ledner and Leuschke",
+      "fraud_count": 46,
+      "fraud_amount": 14537.55,
+      "most_common_state": "TX",
+      "most_common_city": "Arlington",
+      "avg_merch_lat": 37.943,
+      "avg_merch_long": -91.223
+    },
+    {
+      "merchant": "fraud_Wolf Inc",
+      "fraud_count": 45,
+      "fraud_amount": 14073.24,
+      "most_common_state": "CA",
+      "most_common_city": "Albuquerque",
+      "avg_merch_lat": 38.7336,
+      "avg_merch_long": -91.3216
+    },
+    {
+      "merchant": "fraud_Schmidt and Sons",
+      "fraud_count": 45,
+      "fraud_amount": 45786.48,
+      "most_common_state": "MD",
+      "most_common_city": "Allentown",
+      "avg_merch_lat": 39.6762,
+      "avg_merch_long": -90.9398
+    },
+    {
+      "merchant": "fraud_Schumm, Bauch and Ondricka",
+      "fraud_count": 45,
+      "fraud_amount": 13958.62,
+      "most_common_state": "CA",
+      "most_common_city": "Albuquerque",
+      "avg_merch_lat": 39.5989,
+      "avg_merch_long": -91.7237
+    },
+    {
+      "merchant": "fraud_O'Keefe-Hudson",
+      "fraud_count": 45,
+      "fraud_amount": 13971.29,
+      "most_common_state": "MI",
+      "most_common_city": "Southfield",
+      "avg_merch_lat": 39.3216,
+      "avg_merch_long": -85.9712
+    },
+    {
+      "merchant": "fraud_Gottlieb, Considine and Schultz",
+      "fraud_count": 44,
+      "fraud_amount": 44710.4,
+      "most_common_state": "GA",
+      "most_common_city": "Akron",
+      "avg_merch_lat": 37.6795,
+      "avg_merch_long": -90.0784
+    }
+  ],
+  "top_merchants_by_fraud_amount": [
+    {
+      "merchant": "fraud_Kozey-Boehm",
+      "fraud_count": 60,
+      "fraud_amount": 60410.62,
+      "most_common_state": "NY",
+      "most_common_city": "Cass",
+      "avg_merch_lat": 38.6111,
+      "avg_merch_long": -89.6394
+    },
+    {
+      "merchant": "fraud_Terry-Huel",
+      "fraud_count": 56,
+      "fraud_amount": 55203.84,
+      "most_common_state": "PA",
+      "most_common_city": "Beaver Falls",
+      "avg_merch_lat": 38.9454,
+      "avg_merch_long": -90.6529
+    },
+    {
+      "merchant": "fraud_Kuhic LLC",
+      "fraud_count": 53,
+      "fraud_amount": 54282.86,
+      "most_common_state": "NY",
+      "most_common_city": "Pea Ridge",
+      "avg_merch_lat": 38.1151,
+      "avg_merch_long": -89.5922
+    },
+    {
+      "merchant": "fraud_Mosciski, Ziemann and Farrell",
+      "fraud_count": 53,
+      "fraud_amount": 52948.65,
+      "most_common_state": "TX",
+      "most_common_city": "Luzerne",
+      "avg_merch_lat": 39.2158,
+      "avg_merch_long": -89.1773
+    },
+    {
+      "merchant": "fraud_Heathcote, Yost and Kertzmann",
+      "fraud_count": 51,
+      "fraud_amount": 51708.5,
+      "most_common_state": "NY",
+      "most_common_city": "Burrton",
+      "avg_merch_lat": 40.3726,
+      "avg_merch_long": -88.8544
+    },
+    {
+      "merchant": "fraud_Langworth, Boehm and Gulgowski",
+      "fraud_count": 52,
+      "fraud_amount": 51617.94,
+      "most_common_state": "PA",
+      "most_common_city": "Achille",
+      "avg_merch_lat": 38.9306,
+      "avg_merch_long": -89.3929
+    },
+    {
+      "merchant": "fraud_Boyer-Reichert",
+      "fraud_count": 51,
+      "fraud_amount": 51608.67,
+      "most_common_state": "PA",
+      "most_common_city": "Paulding",
+      "avg_merch_lat": 38.7254,
+      "avg_merch_long": -87.6868
+    },
+    {
+      "merchant": "fraud_Boyer PLC",
+      "fraud_count": 55,
+      "fraud_amount": 51363.53,
+      "most_common_state": "OH",
+      "most_common_city": "Minneapolis",
+      "avg_merch_lat": 39.5196,
+      "avg_merch_long": -88.9098
+    },
+    {
+      "merchant": "fraud_Schmeler, Bashirian and Price",
+      "fraud_count": 52,
+      "fraud_amount": 51237.89,
+      "most_common_state": "NY",
+      "most_common_city": "Lohrville",
+      "avg_merch_lat": 40.4272,
+      "avg_merch_long": -90.5938
+    },
+    {
+      "merchant": "fraud_Jast Ltd",
+      "fraud_count": 51,
+      "fraud_amount": 50856.62,
+      "most_common_state": "PA",
+      "most_common_city": "Adams",
+      "avg_merch_lat": 37.5507,
+      "avg_merch_long": -87.8274
+    },
+    {
+      "merchant": "fraud_Kerluke-Abshire",
+      "fraud_count": 50,
+      "fraud_amount": 50301.53,
+      "most_common_state": "OR",
+      "most_common_city": "Dallas",
+      "avg_merch_lat": 39.1127,
+      "avg_merch_long": -96.3059
+    },
+    {
+      "merchant": "fraud_Lemke-Gutmann",
+      "fraud_count": 50,
+      "fraud_amount": 49891.62,
+      "most_common_state": "TX",
+      "most_common_city": "Harper",
+      "avg_merch_lat": 38.7819,
+      "avg_merch_long": -90.6041
+    },
+    {
+      "merchant": "fraud_Cormier LLC",
+      "fraud_count": 53,
+      "fraud_amount": 49838.71,
+      "most_common_state": "FL",
+      "most_common_city": "Detroit",
+      "avg_merch_lat": 38.2826,
+      "avg_merch_long": -90.189
+    },
+    {
+      "merchant": "fraud_Goyette Inc",
+      "fraud_count": 50,
+      "fraud_amount": 49625.05,
+      "most_common_state": "TX",
+      "most_common_city": "Dallas",
+      "avg_merch_lat": 39.5263,
+      "avg_merch_long": -91.9827
+    },
+    {
+      "merchant": "fraud_Romaguera, Cruickshank and Greenholt",
+      "fraud_count": 51,
+      "fraud_amount": 48682.7,
+      "most_common_state": "CA",
+      "most_common_city": "Detroit",
+      "avg_merch_lat": 39.3977,
+      "avg_merch_long": -93.7048
+    },
+    {
+      "merchant": "fraud_Medhurst PLC",
+      "fraud_count": 48,
+      "fraud_amount": 48245.11,
+      "most_common_state": "TX",
+      "most_common_city": "Cleveland",
+      "avg_merch_lat": 37.7543,
+      "avg_merch_long": -87.7546
+    },
+    {
+      "merchant": "fraud_Kuhic, Bins and Pfeffer",
+      "fraud_count": 47,
+      "fraud_amount": 47540.91,
+      "most_common_state": "GA",
+      "most_common_city": "Acworth",
+      "avg_merch_lat": 38.7946,
+      "avg_merch_long": -87.3062
+    },
+    {
+      "merchant": "fraud_Gleason-Macejkovic",
+      "fraud_count": 48,
+      "fraud_amount": 47448.87,
+      "most_common_state": "AR",
+      "most_common_city": "Arlington",
+      "avg_merch_lat": 37.8563,
+      "avg_merch_long": -91.1527
+    },
+    {
+      "merchant": "fraud_Price Inc",
+      "fraud_count": 47,
+      "fraud_amount": 47150.12,
+      "most_common_state": "CA",
+      "most_common_city": "Hawthorne",
+      "avg_merch_lat": 38.1546,
+      "avg_merch_long": -91.6144
+    },
+    {
+      "merchant": "fraud_Heathcote LLC",
+      "fraud_count": 47,
+      "fraud_amount": 46656.58,
+      "most_common_state": "PA",
+      "most_common_city": "Heiskell",
+      "avg_merch_lat": 38.5187,
+      "avg_merch_long": -89.4722
+    },
+    {
+      "merchant": "fraud_Stanton, Jakubowski and Baumbach",
+      "fraud_count": 47,
+      "fraud_amount": 46654.57,
+      "most_common_state": "NY",
+      "most_common_city": "Acworth",
+      "avg_merch_lat": 40.5485,
+      "avg_merch_long": -89.1978
+    },
+    {
+      "merchant": "fraud_Kuhn LLC",
+      "fraud_count": 55,
+      "fraud_amount": 45997.56,
+      "most_common_state": "TX",
+      "most_common_city": "Coleman",
+      "avg_merch_lat": 37.8518,
+      "avg_merch_long": -89.8637
+    },
+    {
+      "merchant": "fraud_Schmidt and Sons",
+      "fraud_count": 45,
+      "fraud_amount": 45786.48,
+      "most_common_state": "MD",
+      "most_common_city": "Allentown",
+      "avg_merch_lat": 39.6762,
+      "avg_merch_long": -90.9398
+    },
+    {
+      "merchant": "fraud_Gottlieb, Considine and Schultz",
+      "fraud_count": 44,
+      "fraud_amount": 44710.4,
+      "most_common_state": "GA",
+      "most_common_city": "Akron",
+      "avg_merch_lat": 37.6795,
+      "avg_merch_long": -90.0784
+    },
+    {
+      "merchant": "fraud_Greenholt, O'Hara and Balistreri",
+      "fraud_count": 46,
+      "fraud_amount": 44705.77,
+      "most_common_state": "IN",
+      "most_common_city": "Amorita",
+      "avg_merch_lat": 38.7214,
+      "avg_merch_long": -91.0365
+    },
+    {
+      "merchant": "fraud_Fisher Inc",
+      "fraud_count": 43,
+      "fraud_amount": 44432.16,
+      "most_common_state": "NY",
+      "most_common_city": "Espanola",
+      "avg_merch_lat": 38.9404,
+      "avg_merch_long": -85.476
+    },
+    {
+      "merchant": "fraud_Fisher-Schowalter",
+      "fraud_count": 44,
+      "fraud_amount": 43931.52,
+      "most_common_state": "TX",
+      "most_common_city": "Akron",
+      "avg_merch_lat": 39.0695,
+      "avg_merch_long": -90.2216
+    },
+    {
+      "merchant": "fraud_Labadie, Treutel and Bode",
+      "fraud_count": 44,
+      "fraud_amount": 43817.43,
+      "most_common_state": "NY",
+      "most_common_city": "Stephensport",
+      "avg_merch_lat": 38.1812,
+      "avg_merch_long": -90.1566
+    },
+    {
+      "merchant": "fraud_Bashirian Group",
+      "fraud_count": 43,
+      "fraud_amount": 43543.32,
+      "most_common_state": "TX",
+      "most_common_city": "Avera",
+      "avg_merch_lat": 38.7154,
+      "avg_merch_long": -88.2379
+    },
+    {
+      "merchant": "fraud_Towne, Greenholt and Koepp",
+      "fraud_count": 43,
+      "fraud_amount": 42751.98,
+      "most_common_state": "FL",
+      "most_common_city": "Mount Perry",
+      "avg_merch_lat": 38.477,
+      "avg_merch_long": -90.4853
+    },
+    {
+      "merchant": "fraud_Rempel Inc",
+      "fraud_count": 43,
+      "fraud_amount": 42454.85,
+      "most_common_state": "CA",
+      "most_common_city": "Granbury",
+      "avg_merch_lat": 38.3671,
+      "avg_merch_long": -92.9174
+    },
+    {
+      "merchant": "fraud_Streich, Dietrich and Barton",
+      "fraud_count": 42,
+      "fraud_amount": 42113.79,
+      "most_common_state": "KY",
+      "most_common_city": "Falmouth",
+      "avg_merch_lat": 38.812,
+      "avg_merch_long": -89.6842
+    },
+    {
+      "merchant": "fraud_Stamm-Witting",
+      "fraud_count": 43,
+      "fraud_amount": 41705.36,
+      "most_common_state": "PA",
+      "most_common_city": "Humble",
+      "avg_merch_lat": 38.7122,
+      "avg_merch_long": -87.5076
+    },
+    {
+      "merchant": "fraud_Auer-West",
+      "fraud_count": 41,
+      "fraud_amount": 41536.67,
+      "most_common_state": "PA",
+      "most_common_city": "Afton",
+      "avg_merch_lat": 38.396,
+      "avg_merch_long": -88.7894
+    },
+    {
+      "merchant": "fraud_Baumbach, Feeney and Morar",
+      "fraud_count": 42,
+      "fraud_amount": 41241.57,
+      "most_common_state": "FL",
+      "most_common_city": "Saint James City",
+      "avg_merch_lat": 37.2765,
+      "avg_merch_long": -88.7565
+    },
+    {
+      "merchant": "fraud_Kihn, Abernathy and Douglas",
+      "fraud_count": 41,
+      "fraud_amount": 40896.82,
+      "most_common_state": "NY",
+      "most_common_city": "Smock",
+      "avg_merch_lat": 38.3083,
+      "avg_merch_long": -89.2722
+    },
+    {
+      "merchant": "fraud_Altenwerth, Cartwright and Koss",
+      "fraud_count": 40,
+      "fraud_amount": 40526.95,
+      "most_common_state": "NY",
+      "most_common_city": "De Witt",
+      "avg_merch_lat": 39.9527,
+      "avg_merch_long": -92.3309
+    },
+    {
+      "merchant": "fraud_Mohr-Bayer",
+      "fraud_count": 40,
+      "fraud_amount": 40326.39,
+      "most_common_state": "MO",
+      "most_common_city": "Aledo",
+      "avg_merch_lat": 37.9012,
+      "avg_merch_long": -88.7855
+    },
+    {
+      "merchant": "fraud_Kassulke PLC",
+      "fraud_count": 40,
+      "fraud_amount": 40125.69,
+      "most_common_state": "PA",
+      "most_common_city": "Altona",
+      "avg_merch_lat": 37.7255,
+      "avg_merch_long": -88.2352
+    },
+    {
+      "merchant": "fraud_Schumm PLC",
+      "fraud_count": 41,
+      "fraud_amount": 39951.84,
+      "most_common_state": "FL",
+      "most_common_city": "Highland",
+      "avg_merch_lat": 36.9191,
+      "avg_merch_long": -85.7151
+    },
+    {
+      "merchant": "fraud_Reichert, Huels and Hoppe",
+      "fraud_count": 39,
+      "fraud_amount": 38632.6,
+      "most_common_state": "NY",
+      "most_common_city": "Atlantic",
+      "avg_merch_lat": 39.0514,
+      "avg_merch_long": -89.403
+    },
+    {
+      "merchant": "fraud_Gerlach Inc",
+      "fraud_count": 38,
+      "fraud_amount": 38169.76,
+      "most_common_state": "GA",
+      "most_common_city": "Harper",
+      "avg_merch_lat": 39.0723,
+      "avg_merch_long": -88.1138
+    },
+    {
+      "merchant": "fraud_Zboncak, Rowe and Murazik",
+      "fraud_count": 38,
+      "fraud_amount": 37769.37,
+      "most_common_state": "MN",
+      "most_common_city": "Albuquerque",
+      "avg_merch_lat": 38.4723,
+      "avg_merch_long": -89.6301
+    },
+    {
+      "merchant": "fraud_Reichert, Rowe and Mraz",
+      "fraud_count": 38,
+      "fraud_amount": 37285.36,
+      "most_common_state": "FL",
+      "most_common_city": "Cass",
+      "avg_merch_lat": 37.6603,
+      "avg_merch_long": -88.6789
+    },
+    {
+      "merchant": "fraud_Little, Gutmann and Lynch",
+      "fraud_count": 37,
+      "fraud_amount": 36234.78,
+      "most_common_state": "AR",
+      "most_common_city": "Norman",
+      "avg_merch_lat": 38.8917,
+      "avg_merch_long": -90.5776
+    },
+    {
+      "merchant": "fraud_Ankunding LLC",
+      "fraud_count": 35,
+      "fraud_amount": 35514.8,
+      "most_common_state": "PA",
+      "most_common_city": "Armonk",
+      "avg_merch_lat": 38.6575,
+      "avg_merch_long": -88.1251
+    },
+    {
+      "merchant": "fraud_Hills-Witting",
+      "fraud_count": 37,
+      "fraud_amount": 35447.68,
+      "most_common_state": "PA",
+      "most_common_city": "Belle Fourche",
+      "avg_merch_lat": 38.8994,
+      "avg_merch_long": -91.7762
+    },
+    {
+      "merchant": "fraud_Volkman-Predovic",
+      "fraud_count": 35,
+      "fraud_amount": 35325.99,
+      "most_common_state": "GA",
+      "most_common_city": "Hovland",
+      "avg_merch_lat": 38.5502,
+      "avg_merch_long": -89.4239
+    },
+    {
+      "merchant": "fraud_Reichert, Shanahan and Hayes",
+      "fraud_count": 35,
+      "fraud_amount": 34248.22,
+      "most_common_state": "TX",
+      "most_common_city": "Henderson",
+      "avg_merch_lat": 39.5386,
+      "avg_merch_long": -87.4505
+    },
+    {
+      "merchant": "fraud_Predovic Inc",
+      "fraud_count": 32,
+      "fraud_amount": 31586.48,
+      "most_common_state": "NY",
+      "most_common_city": "Angwin",
+      "avg_merch_lat": 39.6421,
+      "avg_merch_long": -90.2395
+    }
+  ],
+  "top_cards_by_fraud_count": [
+    {
+      "masked_card_id": "****5790",
+      "fraud_count": 38,
+      "fraud_amount": 23792.69
+    },
+    {
+      "masked_card_id": "****9909",
+      "fraud_count": 30,
+      "fraud_amount": 15882.8
+    },
+    {
+      "masked_card_id": "****1141",
+      "fraud_count": 28,
+      "fraud_amount": 19659.52
+    },
+    {
+      "masked_card_id": "****3023",
+      "fraud_count": 27,
+      "fraud_amount": 12189.85
+    },
+    {
+      "masked_card_id": "****1264",
+      "fraud_count": 26,
+      "fraud_amount": 12023.53
+    },
+    {
+      "masked_card_id": "****8984",
+      "fraud_count": 25,
+      "fraud_amount": 12849.21
+    },
+    {
+      "masked_card_id": "****3463",
+      "fraud_count": 25,
+      "fraud_amount": 12158.61
+    },
+    {
+      "masked_card_id": "****0716",
+      "fraud_count": 25,
+      "fraud_amount": 13711.98
+    },
+    {
+      "masked_card_id": "****9997",
+      "fraud_count": 24,
+      "fraud_amount": 9074.28
+    },
+    {
+      "masked_card_id": "****7976",
+      "fraud_count": 24,
+      "fraud_amount": 15086.41
+    },
+    {
+      "masked_card_id": "****0993",
+      "fraud_count": 24,
+      "fraud_amount": 12964.44
+    },
+    {
+      "masked_card_id": "****9801",
+      "fraud_count": 24,
+      "fraud_amount": 12327.24
+    },
+    {
+      "masked_card_id": "****6408",
+      "fraud_count": 24,
+      "fraud_amount": 7681.54
+    },
+    {
+      "masked_card_id": "****0592",
+      "fraud_count": 24,
+      "fraud_amount": 15286.03
+    },
+    {
+      "masked_card_id": "****3109",
+      "fraud_count": 24,
+      "fraud_amount": 15133.5
+    },
+    {
+      "masked_card_id": "****7414",
+      "fraud_count": 24,
+      "fraud_amount": 12324.41
+    },
+    {
+      "masked_card_id": "****2597",
+      "fraud_count": 24,
+      "fraud_amount": 14903.69
+    },
+    {
+      "masked_card_id": "****3950",
+      "fraud_count": 23,
+      "fraud_amount": 8385.72
+    },
+    {
+      "masked_card_id": "****7244",
+      "fraud_count": 23,
+      "fraud_amount": 14153.01
+    },
+    {
+      "masked_card_id": "****1506",
+      "fraud_count": 23,
+      "fraud_amount": 11406.73
+    },
+    {
+      "masked_card_id": "****2433",
+      "fraud_count": 23,
+      "fraud_amount": 8207.52
+    },
+    {
+      "masked_card_id": "****5094",
+      "fraud_count": 23,
+      "fraud_amount": 11061.41
+    },
+    {
+      "masked_card_id": "****1019",
+      "fraud_count": 22,
+      "fraud_amount": 15111.4
+    },
+    {
+      "masked_card_id": "****0390",
+      "fraud_count": 22,
+      "fraud_amount": 14372.0
+    },
+    {
+      "masked_card_id": "****9027",
+      "fraud_count": 22,
+      "fraud_amount": 9905.22
+    },
+    {
+      "masked_card_id": "****7625",
+      "fraud_count": 22,
+      "fraud_amount": 9251.44
+    },
+    {
+      "masked_card_id": "****1366",
+      "fraud_count": 22,
+      "fraud_amount": 14988.29
+    },
+    {
+      "masked_card_id": "****4489",
+      "fraud_count": 22,
+      "fraud_amount": 13896.77
+    },
+    {
+      "masked_card_id": "****0012",
+      "fraud_count": 22,
+      "fraud_amount": 11686.89
+    },
+    {
+      "masked_card_id": "****3032",
+      "fraud_count": 22,
+      "fraud_amount": 9040.12
+    },
+    {
+      "masked_card_id": "****3447",
+      "fraud_count": 22,
+      "fraud_amount": 15483.27
+    },
+    {
+      "masked_card_id": "****4880",
+      "fraud_count": 21,
+      "fraud_amount": 13272.53
+    },
+    {
+      "masked_card_id": "****3047",
+      "fraud_count": 21,
+      "fraud_amount": 13569.61
+    },
+    {
+      "masked_card_id": "****3984",
+      "fraud_count": 21,
+      "fraud_amount": 12601.84
+    },
+    {
+      "masked_card_id": "****0989",
+      "fraud_count": 21,
+      "fraud_amount": 11138.3
+    },
+    {
+      "masked_card_id": "****6333",
+      "fraud_count": 20,
+      "fraud_amount": 8891.4
+    },
+    {
+      "masked_card_id": "****8021",
+      "fraud_count": 20,
+      "fraud_amount": 9845.69
+    },
+    {
+      "masked_card_id": "****1879",
+      "fraud_count": 20,
+      "fraud_amount": 9842.4
+    },
+    {
+      "masked_card_id": "****0186",
+      "fraud_count": 20,
+      "fraud_amount": 9559.52
+    },
+    {
+      "masked_card_id": "****4413",
+      "fraud_count": 20,
+      "fraud_amount": 10908.11
+    },
+    {
+      "masked_card_id": "****1375",
+      "fraud_count": 20,
+      "fraud_amount": 10730.54
+    },
+    {
+      "masked_card_id": "****6329",
+      "fraud_count": 19,
+      "fraud_amount": 9554.73
+    },
+    {
+      "masked_card_id": "****3351",
+      "fraud_count": 19,
+      "fraud_amount": 11885.09
+    },
+    {
+      "masked_card_id": "****5080",
+      "fraud_count": 19,
+      "fraud_amount": 10120.54
+    },
+    {
+      "masked_card_id": "****4237",
+      "fraud_count": 19,
+      "fraud_amount": 10340.77
+    },
+    {
+      "masked_card_id": "****5412",
+      "fraud_count": 19,
+      "fraud_amount": 8431.93
+    },
+    {
+      "masked_card_id": "****6057",
+      "fraud_count": 19,
+      "fraud_amount": 12002.06
+    },
+    {
+      "masked_card_id": "****5522",
+      "fraud_count": 19,
+      "fraud_amount": 9685.83
+    },
+    {
+      "masked_card_id": "****2337",
+      "fraud_count": 19,
+      "fraud_amount": 12011.59
+    },
+    {
+      "masked_card_id": "****9917",
+      "fraud_count": 19,
+      "fraud_amount": 8249.45
+    }
+  ],
+  "top_cards_by_fraud_amount": [
+    {
+      "masked_card_id": "****5790",
+      "fraud_count": 38,
+      "fraud_amount": 23792.69
+    },
+    {
+      "masked_card_id": "****1141",
+      "fraud_count": 28,
+      "fraud_amount": 19659.52
+    },
+    {
+      "masked_card_id": "****9909",
+      "fraud_count": 30,
+      "fraud_amount": 15882.8
+    },
+    {
+      "masked_card_id": "****3447",
+      "fraud_count": 22,
+      "fraud_amount": 15483.27
+    },
+    {
+      "masked_card_id": "****0592",
+      "fraud_count": 24,
+      "fraud_amount": 15286.03
+    },
+    {
+      "masked_card_id": "****3109",
+      "fraud_count": 24,
+      "fraud_amount": 15133.5
+    },
+    {
+      "masked_card_id": "****1019",
+      "fraud_count": 22,
+      "fraud_amount": 15111.4
+    },
+    {
+      "masked_card_id": "****7976",
+      "fraud_count": 24,
+      "fraud_amount": 15086.41
+    },
+    {
+      "masked_card_id": "****1366",
+      "fraud_count": 22,
+      "fraud_amount": 14988.29
+    },
+    {
+      "masked_card_id": "****2597",
+      "fraud_count": 24,
+      "fraud_amount": 14903.69
+    },
+    {
+      "masked_card_id": "****0390",
+      "fraud_count": 22,
+      "fraud_amount": 14372.0
+    },
+    {
+      "masked_card_id": "****7244",
+      "fraud_count": 23,
+      "fraud_amount": 14153.01
+    },
+    {
+      "masked_card_id": "****4489",
+      "fraud_count": 22,
+      "fraud_amount": 13896.77
+    },
+    {
+      "masked_card_id": "****8417",
+      "fraud_count": 18,
+      "fraud_amount": 13746.2
+    },
+    {
+      "masked_card_id": "****0716",
+      "fraud_count": 25,
+      "fraud_amount": 13711.98
+    },
+    {
+      "masked_card_id": "****3047",
+      "fraud_count": 21,
+      "fraud_amount": 13569.61
+    },
+    {
+      "masked_card_id": "****4880",
+      "fraud_count": 21,
+      "fraud_amount": 13272.53
+    },
+    {
+      "masked_card_id": "****0993",
+      "fraud_count": 24,
+      "fraud_amount": 12964.44
+    },
+    {
+      "masked_card_id": "****8984",
+      "fraud_count": 25,
+      "fraud_amount": 12849.21
+    },
+    {
+      "masked_card_id": "****3984",
+      "fraud_count": 21,
+      "fraud_amount": 12601.84
+    },
+    {
+      "masked_card_id": "****9801",
+      "fraud_count": 24,
+      "fraud_amount": 12327.24
+    },
+    {
+      "masked_card_id": "****7414",
+      "fraud_count": 24,
+      "fraud_amount": 12324.41
+    },
+    {
+      "masked_card_id": "****3023",
+      "fraud_count": 27,
+      "fraud_amount": 12189.85
+    },
+    {
+      "masked_card_id": "****3463",
+      "fraud_count": 25,
+      "fraud_amount": 12158.61
+    },
+    {
+      "masked_card_id": "****1264",
+      "fraud_count": 26,
+      "fraud_amount": 12023.53
+    },
+    {
+      "masked_card_id": "****2337",
+      "fraud_count": 19,
+      "fraud_amount": 12011.59
+    },
+    {
+      "masked_card_id": "****6057",
+      "fraud_count": 19,
+      "fraud_amount": 12002.06
+    },
+    {
+      "masked_card_id": "****3351",
+      "fraud_count": 19,
+      "fraud_amount": 11885.09
+    },
+    {
+      "masked_card_id": "****0012",
+      "fraud_count": 22,
+      "fraud_amount": 11686.89
+    },
+    {
+      "masked_card_id": "****1267",
+      "fraud_count": 14,
+      "fraud_amount": 11641.22
+    },
+    {
+      "masked_card_id": "****1506",
+      "fraud_count": 23,
+      "fraud_amount": 11406.73
+    },
+    {
+      "masked_card_id": "****0989",
+      "fraud_count": 21,
+      "fraud_amount": 11138.3
+    },
+    {
+      "masked_card_id": "****5094",
+      "fraud_count": 23,
+      "fraud_amount": 11061.41
+    },
+    {
+      "masked_card_id": "****0693",
+      "fraud_count": 15,
+      "fraud_amount": 11061.27
+    },
+    {
+      "masked_card_id": "****6313",
+      "fraud_count": 15,
+      "fraud_amount": 10994.76
+    },
+    {
+      "masked_card_id": "****5434",
+      "fraud_count": 18,
+      "fraud_amount": 10956.0
+    },
+    {
+      "masked_card_id": "****4413",
+      "fraud_count": 20,
+      "fraud_amount": 10908.11
+    },
+    {
+      "masked_card_id": "****0372",
+      "fraud_count": 14,
+      "fraud_amount": 10894.97
+    },
+    {
+      "masked_card_id": "****1375",
+      "fraud_count": 20,
+      "fraud_amount": 10730.54
+    },
+    {
+      "masked_card_id": "****8423",
+      "fraud_count": 15,
+      "fraud_amount": 10662.99
+    },
+    {
+      "masked_card_id": "****9449",
+      "fraud_count": 19,
+      "fraud_amount": 10503.21
+    },
+    {
+      "masked_card_id": "****9877",
+      "fraud_count": 16,
+      "fraud_amount": 10454.66
+    },
+    {
+      "masked_card_id": "****4173",
+      "fraud_count": 11,
+      "fraud_amount": 10437.0
+    },
+    {
+      "masked_card_id": "****9925",
+      "fraud_count": 15,
+      "fraud_amount": 10404.97
+    },
+    {
+      "masked_card_id": "****4237",
+      "fraud_count": 19,
+      "fraud_amount": 10340.77
+    },
+    {
+      "masked_card_id": "****0142",
+      "fraud_count": 16,
+      "fraud_amount": 10277.79
+    },
+    {
+      "masked_card_id": "****4809",
+      "fraud_count": 16,
+      "fraud_amount": 10231.39
+    },
+    {
+      "masked_card_id": "****5080",
+      "fraud_count": 19,
+      "fraud_amount": 10120.54
+    },
+    {
+      "masked_card_id": "****9027",
+      "fraud_count": 22,
+      "fraud_amount": 9905.22
+    },
+    {
+      "masked_card_id": "****4972",
+      "fraud_count": 12,
+      "fraud_amount": 9874.94
+    }
+  ],
+  "merchant_category_table": [
+    {
+      "merchant": "fraud_Abbott-Rogahn",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Abbott-Steuber",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Abernathy and Sons",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Abshire PLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Adams, Kovacek and Kuhlman",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Adams-Barrows",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Altenwerth, Cartwright and Koss",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Altenwerth-Kilback",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Ankunding LLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Ankunding-Carroll",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Armstrong, Walter and Gottlieb",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Auer LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Auer-Mosciski",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Auer-West",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Bahringer Group",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Bahringer, Bergnaum and Quitzon",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Bahringer, Osinski and Block",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Bahringer, Schoen and Corkery",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Bahringer-Larson",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Bahringer-Streich",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Bailey-Morar",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Balistreri-Nader",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Barrows PLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Bartoletti and Sons",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Bartoletti-Wunsch",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Barton Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Barton LLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Bashirian Group",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Bauch-Blanda",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Bauch-Raynor",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Baumbach Ltd",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Baumbach, Feeney and Morar",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Baumbach, Hodkiewicz and Walsh",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Baumbach, Strosin and Nicolas",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Bechtelar-Rippin",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Becker, Harris and Harvey",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Bednar Group",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Bednar Inc",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Bednar PLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Beer-Jast",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Beier LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Beier and Sons",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Beier-Hyatt",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Berge LLC",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Berge, Kautzer and Harris",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Berge-Hills",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Berge-Ullrich",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Bernhard Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Bernhard, Grant and Langworth",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Bernhard-Lesch",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Bernier and Sons",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Bernier, Streich and Jewess",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Bernier, Volkman and Hoeger",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Bins, Balistreri and Beatty",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Bins-Howell",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Bins-Rice",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Bins-Tillman",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Block Group",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Block-Hauck",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Block-Parisian",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Bode-Rempel",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Bode-Schuster",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Boehm, Block and Jakubowski",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Boehm, Predovic and Reinger",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Bogisich Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Bogisich-Homenick",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Bogisich-Weimann",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Botsford Ltd",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Botsford PLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Botsford and Sons",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Boyer PLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Boyer PLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Boyer-Haley",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Boyer-Reichert",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Bradtke PLC",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Bradtke, Torp and Bahringer",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Breitenberg LLC",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Breitenberg-Hermiston",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Brekke and Sons",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Brown Inc",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Brown PLC",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Brown, Homenick and Lesch",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Brown-Greenholt",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Bruen-Yost",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Buckridge PLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Carroll PLC",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Cartwright PLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Cartwright-Harris",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Casper, Hand and Zulauf",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Cassin-Harvey",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Champlin and Sons",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Champlin, Rolfson and Connelly",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Champlin-Casper",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Christiansen, Goyette and Schamberger",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Christiansen-Gusikowski",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Cole PLC",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Cole, Hills and Jewess",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Collier Inc",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Collier LLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Connelly PLC",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Connelly, Reichert and Fritsch",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Connelly-Carter",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Conroy Ltd",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Conroy, Balistreri and Gorczany",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Conroy-Cruickshank",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Conroy-Emard",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Cormier LLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Cormier LLC",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Cormier, Stracke and Thiel",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Corwin-Collins",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Corwin-Gorczany",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Corwin-Romaguera",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Cremin, Hamill and Reichel",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Crist, Jakubowski and Littel",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Crona and Sons",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Cronin, Kshlerin and Weber",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Crooks and Sons",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Cruickshank-Mills",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Cummerata-Hilpert",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Cummerata-Jones",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Cummings Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Cummings LLC",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Dach-Borer",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Dach-Nader",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Dare, Casper and Bartoletti",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Dare, Fritsch and Zboncak",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Dare-Gibson",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Dare-Marvin",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Daugherty LLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Daugherty, Pouros and Beahan",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Daugherty-Thompson",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Deckow-Dare",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Deckow-O'Conner",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Denesik and Sons",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Denesik, Powlowski and Pouros",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Dibbert and Sons",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Dibbert-Green",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Dicki Ltd",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Dickinson Ltd",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Dickinson Ltd",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Dickinson-Rempel",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Dietrich-Fadel",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Donnelly LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Donnelly PLC",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Dooley Inc",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Dooley-Thompson",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Douglas, DuBuque and McKenzie",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Douglas, Schneider and Turner",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Douglas-White",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Doyle Ltd",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_DuBuque LLC",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Durgan, Gislason and Spencer",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Durgan-Auer",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Ebert-Daugherty",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Effertz LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Effertz, Welch and Schowalter",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Eichmann, Bogan and Rodriguez",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Eichmann, Hayes and Treutel",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Eichmann-Kilback",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Eichmann-Russel",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Emard Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Emmerich-Luettgen",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Emmerich-Rau",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Erdman-Durgan",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Erdman-Ebert",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Erdman-Kertzmann",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Erdman-Schaden",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Ernser-Feest",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Ernser-Lynch",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Fadel Inc",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Fadel, Mertz and Rippin",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Fadel-Hilpert",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Fahey Inc",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Feil, Hilpert and Koss",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Feil-Morar",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Ferry, Lynch and Kautzer",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Ferry, Reichel and DuBuque",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Fisher Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Fisher-Schowalter",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Flatley Group",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Flatley-Durgan",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Frami Group",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Friesen Inc",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Friesen Ltd",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Friesen-D'Amore",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Friesen-Ortiz",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Friesen-Stamm",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Fritsch LLC",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Fritsch and Sons",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Funk Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Gaylord-Powlowski",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Gerhold LLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Gerlach Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Gibson-Deckow",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Gislason Group",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Gislason Group",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Gleason and Sons",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Gleason-Macejkovic",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Goldner, Kovacek and Abbott",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Goldner-Lemke",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Goodwin-Nitzsche",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Gottlieb Group",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Gottlieb, Considine and Schultz",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Gottlieb-Hansen",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Goyette Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Goyette, Howell and Collier",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Goyette-Gerhold",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Goyette-Herzog",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Graham and Sons",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Graham, Hegmann and Hammes",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Greenfelder, Bartoletti and Davis",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Greenholt Ltd",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Greenholt, Jacobi and Gleason",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Greenholt, O'Hara and Balistreri",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Grimes LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Gutmann Ltd",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Gutmann, McLaughlin and Wiza",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Gutmann-Upton",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Haag-Blanda",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Hackett Group",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Hackett-Lueilwitz",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Hagenes, Hermann and Stroman",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Hagenes, Kohler and Hoppe",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Hahn, Bahringer and McLaughlin",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Hahn, Douglas and Schowalter",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Haley Group",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Haley, Batz and Auer",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Haley, Jewess and Bechtelar",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Halvorson Group",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Hamill-D'Amore",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Hamill-Daugherty",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Hammes-Beatty",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Harber Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Harris Group",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Harris Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Harris, Gusikowski and Heaney",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Hartmann, Rowe and Hermann",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Hauck, Dietrich and Funk",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Hayes, Marquardt and Dibbert",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Heaney-Marquardt",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Heathcote LLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Heathcote, Yost and Kertzmann",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Heidenreich PLC",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Heller PLC",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Heller, Gutmann and Zieme",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Heller-Abshire",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Heller-Langosh",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Herman Inc",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Herman, Treutel and Dickens",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Hermann and Sons",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Hermann-Gaylord",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Hermiston, Pacocha and Smith",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Hermiston, Russel and Price",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Herzog Ltd",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Hettinger, McCullough and Fay",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Hickle Group",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Hills, Hegmann and Schaefer",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Hills-Boyer",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Hills-Olson",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Hills-Witting",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Hilpert-Conroy",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Hintz, Bauch and Smith",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Hintz-Bruen",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Hirthe-Beier",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Homenick LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Hoppe, Harris and Bednar",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Hoppe-Parisian",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Howe Ltd",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Howe PLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Hudson-Grady",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Hudson-Ratke",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Huel Ltd",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Huel, Hammes and Witting",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Huel-Langworth",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Huels-Hahn",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Huels-Nolan",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Hyatt, Russel and Gleichner",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Hyatt-Blick",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Jacobi Inc",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Jacobi and Sons",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Jakubowski Group",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Jakubowski Inc",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Jaskolski-Dibbert",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Jaskolski-Vandervort",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Jast Ltd",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Jast and Sons",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Jast-McDermott",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Jenkins, Hauck and Friesen",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Jerde-Hermann",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Jewess LLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Johns Inc",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Johns-Hoeger",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Johnson, Runolfsdottir and Mayer",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Johnston, Nikolaus and Maggio",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Johnston-Casper",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Jones, Sawayn and Romaguera",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kassulke Inc",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Kassulke PLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kautzer and Sons",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Keeling-Crist",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Kemmer-Buckridge",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Kemmer-Reinger",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Kerluke Inc",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kerluke PLC",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kerluke, Considine and Macejkovic",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kerluke, Kertzmann and Wiza",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kerluke-Abshire",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kertzmann LLC",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Kessler Group",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kessler Inc",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kiehn Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kiehn-Emmerich",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kihn Inc",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Kihn, Abernathy and Douglas",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kihn, Brakus and Goyette",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Kihn-Fritsch",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kihn-Schuster",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kilback Group",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kilback LLC",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kilback LLC",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kilback and Sons",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Kilback, Nitzsche and Leffler",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kirlin and Sons",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Klein Group",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Kling Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Kling, Howe and Schneider",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Kling-Ernser",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Kling-Grant",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Klocko LLC",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Klocko, Runolfsdottir and Breitenberg",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Koelpin and Sons",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Koepp-Parker",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Koepp-Witting",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kohler, Lindgren and Koelpin",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Konopelski, Schneider and Hartmann",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Koss and Sons",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Koss, Hansen and Lueilwitz",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Koss, McLaughlin and Mayer",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kovacek Ltd",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kovacek, Dibbert and Ondricka",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kozey-Boehm",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kozey-Kuhlman",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Kozey-McDermott",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kris-Kertzmann",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kris-Padberg",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Kris-Weimann",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kub PLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Kub-Heaney",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Kuhic Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kuhic LLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kuhic, Bins and Pfeffer",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Kuhn Group",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kuhn LLC",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kuhn LLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Kulas Group",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Kunde-Sanford",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kunze Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kunze, Larkin and Mayert",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Kuphal-Bartoletti",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kuphal-Predovic",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Kuphal-Toy",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kutch Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Kutch LLC",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Kutch and Sons",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Kutch, Hermiston and Farrell",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Kutch, Steuber and Gerhold",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Kutch-Ferry",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Kutch-Hegmann",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Kutch-Wilderman",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Kuvalis Ltd",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Labadie LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Labadie, Treutel and Bode",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Lakin, Ferry and Beatty",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Lang, Towne and Schuppe",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Langosh, Wintheiser and Hyatt",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Langworth LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Langworth, Boehm and Gulgowski",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Larkin Ltd",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Larkin, Stracke and Greenfelder",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Larson, Quitzon and Spencer",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Larson-Moen",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Leannon-Nikolaus",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Leannon-Ward",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Lebsack and Sons",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Ledner, Hartmann and Feest",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Ledner-Pfannerstill",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Leffler-Goldner",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Lehner, Mosciski and King",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Lehner, Reichert and Mills",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Lemke and Sons",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Lemke-Gutmann",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Lesch Ltd",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Lesch, D'Amore and Brown",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Lind, Huel and McClure",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Lind-Buckridge",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Little Ltd",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Little, Gutmann and Lynch",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Little-Gleichner",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Lockman Ltd",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Lockman, West and Runte",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Lowe, Dietrich and Erdman",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Lubowitz, Terry and Stracke",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Lubowitz-Walter",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Luettgen PLC",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Lynch Ltd",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Lynch-Mohr",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Lynch-Wisozk",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Macejkovic-Lesch",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Maggio-Fahey",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Mante Group",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Mante, Luettgen and Hackett",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Marks Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Marvin-Lind",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Mayert Group",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_McCullough Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_McCullough LLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_McCullough, Hudson and Schuster",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_McDermott, Osinski and Morar",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_McDermott-Rice",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_McDermott-Weimann",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_McGlynn-Heathcote",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_McGlynn-Jaskolski",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_McLaughlin, Armstrong and Koepp",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Medhurst Inc",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Medhurst PLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Medhurst, Cartwright and Ebert",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Medhurst, Labadie and Gottlieb",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Metz, Russel and Metz",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Metz-Boehm",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Miller-Harris",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Miller-Hauck",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Moen, Reinger and Murphy",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Mohr Inc",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Mohr-Bayer",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Monahan, Bogisich and Ledner",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Monahan, Hermann and Johns",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Monahan-Morar",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Moore, Dibbert and Koepp",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Moore, Williamson and Emmerich",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Morar Inc",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Morissette LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Morissette PLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Morissette, Weber and Wiegand",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Morissette-Schaefer",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Mosciski Group",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Mosciski, Gislason and Mertz",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Mosciski, Ziemann and Farrell",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Mraz-Herzog",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Mueller, Gerhold and Mueller",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Murray Ltd",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Murray-Smitham",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Nader-Heller",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Nader-Maggio",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Nicolas, Hills and McGlynn",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Nienow PLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Nienow, Ankunding and Collier",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Nienow, Barrows and Romaguera",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Nitzsche, Kessler and Wolff",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Nolan-Williamson",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_O'Connell, Botsford and Hand",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_O'Connell-Ullrich",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_O'Hara-Wilderman",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_O'Keefe-Hudson",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_O'Keefe-Wisoky",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_O'Reilly, Mohr and Purdy",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Okuneva, Schneider and Rau",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Olson, Becker and Koch",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Ortiz Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Osinski Inc",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Osinski, Ledner and Leuschke",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Pacocha-Bauch",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Pacocha-O'Reilly",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Pacocha-Weissnat",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Padberg-Rogahn",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Padberg-Sauer",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Padberg-Welch",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Pagac LLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Parisian and Sons",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Parisian, Schiller and Altenwerth",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Parker, Nolan and Trantow",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Parker-Kunde",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Pfeffer LLC",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Pfeffer and Sons",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Pollich LLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Pouros, Walker and Spencer",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Pouros-Conroy",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Pouros-Haag",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Powlowski-Weimann",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Predovic Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Price Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Prohaska-Murray",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Prosacco LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Prosacco, Kreiger and Kovacek",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Quitzon, Green and Bashirian",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Quitzon-Goyette",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Ratke and Sons",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Rau and Sons",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Rau-Grant",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Rau-Robel",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Raynor, Feest and Miller",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Raynor, Reinger and Hagenes",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Reichel Inc",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Reichel LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Reichel, Bradtke and Blanda",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Reichert, Huels and Hoppe",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Reichert, Rowe and Mraz",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Reichert, Shanahan and Hayes",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Reilly LLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Reilly and Sons",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Reilly, Heaney and Cole",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Reinger, Weissnat and Strosin",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Rempel Inc",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Rempel PLC",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Renner Ltd",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Reynolds-Schinner",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Rippin, Kub and Mann",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Rippin-VonRueden",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Ritchie, Oberbrunner and Cremin",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Robel, Cummerata and Prosacco",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Roberts, Daniel and Macejkovic",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Roberts, Ryan and Smith",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Roberts-Beahan",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Rodriguez Group",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Rodriguez, Yost and Jenkins",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Rohan, White and Aufderhar",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Rolfson-Kunde",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Romaguera Ltd",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Romaguera and Sons",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Romaguera, Cruickshank and Greenholt",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Romaguera, Wehner and Tromp",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Roob LLC",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Roob, Conn and Tremblay",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Roob-Okuneva",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Rowe, Batz and Goodwin",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Rowe-Vandervort",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Ruecker Group",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Ruecker, Beer and Collier",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Ruecker-Mayert",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Runolfsdottir, Mueller and Hand",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Runolfsson and Sons",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Runte, Green and Emard",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Runte-Mohr",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Rutherford, Homenick and Bergstrom",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Rutherford-Mertz",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Satterfield-Lowe",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Sawayn PLC",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Schaefer Ltd",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Schaefer, Fay and Hilll",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Schaefer, Maggio and Daugherty",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Schaefer, McGlynn and Bosco",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Schamberger-O'Keefe",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Schiller Ltd",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Schiller, Blanda and Johnson",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Schimmel-Olson",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Schmeler Inc",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Schmeler, Bashirian and Price",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Schmeler-Howe",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Schmidt and Sons",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Schmidt-Larkin",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Schmitt Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Schmitt Ltd",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Schneider, Hayes and Nikolaus",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Schoen Ltd",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Schoen, Kuphal and Nitzsche",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Schoen, Nienow and Bauch",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Schoen-Quigley",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Schroeder, Hauck and Treutel",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Schroeder, Wolff and Hermiston",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Schulist Ltd",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Schultz, Simonis and Little",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Schumm PLC",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Schumm PLC",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Schumm, Bauch and Ondricka",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Schumm, McLaughlin and Carter",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Schuppe LLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Schuppe, Nolan and Hoeger",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Schuppe-Schuppe",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Shanahan-Lehner",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Shields Inc",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Shields-Wunsch",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Simonis-Prohaska",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Skiles LLC",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Skiles-Ankunding",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Smith-Stokes",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Smitham-Boehm",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Smitham-Schiller",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Spencer PLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Spencer-Runolfsson",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Spinka Inc",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Spinka-Welch",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Sporer Inc",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Sporer-Keebler",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Stamm-Rodriguez",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Stamm-Witting",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Stanton, Jakubowski and Baumbach",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Stark-Batz",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Stark-Koss",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Stehr, Jewess and Schimmel",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Stiedemann Inc",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Stiedemann Ltd",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Stokes, Christiansen and Sipes",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Stoltenberg-Beatty",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Stracke-Lemke",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Streich Ltd",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Streich, Dietrich and Barton",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Streich, Hansen and Veum",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Streich, Rolfson and Wilderman",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Stroman, Hudson and Erdman",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Strosin-Cruickshank",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Swaniawski, Bahringer and Ledner",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Swaniawski, Lowe and Robel",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Swaniawski, Nitzsche and Welch",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Swift PLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Swift, Bradtke and Marquardt",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Terry Ltd",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Terry, Johns and Bins",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Terry-Huel",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Thiel Ltd",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Thiel PLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Thiel-Thiel",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Thompson-Gleason",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Tillman LLC",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Tillman, Dickinson and Labadie",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Tillman, Fritsch and Schmitt",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Torp, Muller and Borer",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Torp-Labadie",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Torp-Lemke",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Torphy-Goyette",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Torphy-Kertzmann",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Towne LLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Towne, Greenholt and Koepp",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Towne, Walker and Borer",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Trantow PLC",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Treutel-King",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Tromp Group",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Tromp, Kerluke and Glover",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Turcotte, Batz and Buckridge",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Turcotte, McKenzie and Koss",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Turcotte-Halvorson",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Turner LLC",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Turner and Sons",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Turner, Ruecker and Parisian",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Turner, Ziemann and Lehner",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Ullrich Ltd",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Upton PLC",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Vandervort-Funk",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Veum-Koelpin",
+      "category": "travel"
+    },
+    {
+      "merchant": "fraud_Volkman Ltd",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Volkman PLC",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Volkman-Predovic",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_VonRueden Group",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Waelchi Inc",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Waelchi-Wolf",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Walter, Hettinger and Kessler",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Waters-Cruickshank",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Watsica LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Watsica, Haag and Considine",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Weber and Sons",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Weber, Thiel and Hammes",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Weimann, Kuhic and Beahan",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Weimann-Lockman",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Welch Inc",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Welch, Rath and Koepp",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_White and Sons",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Wilkinson LLC",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Wilkinson Ltd",
+      "category": "entertainment"
+    },
+    {
+      "merchant": "fraud_Wilkinson PLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Will Ltd",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Williamson LLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Willms, Kris and Bergnaum",
+      "category": "shopping_pos"
+    },
+    {
+      "merchant": "fraud_Windler LLC",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Windler, Goodwin and Kovacek",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Wintheiser, Dietrich and Schimmel",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Wisozk and Sons",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Witting, Beer and Ernser",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Wiza LLC",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Wiza, Schaden and Stark",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Wolf Inc",
+      "category": "grocery_pos"
+    },
+    {
+      "merchant": "fraud_Wuckert, Wintheiser and Friesen",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Wuckert-Goldner",
+      "category": "home"
+    },
+    {
+      "merchant": "fraud_Wuckert-Walter",
+      "category": "grocery_net"
+    },
+    {
+      "merchant": "fraud_Yost, Block and Koepp",
+      "category": "misc_pos"
+    },
+    {
+      "merchant": "fraud_Yost, Schamberger and Windler",
+      "category": "kids_pets"
+    },
+    {
+      "merchant": "fraud_Yost-Rogahn",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Zboncak LLC",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Zboncak Ltd",
+      "category": "food_dining"
+    },
+    {
+      "merchant": "fraud_Zboncak, Rowe and Murazik",
+      "category": "shopping_net"
+    },
+    {
+      "merchant": "fraud_Zemlak Group",
+      "category": "misc_net"
+    },
+    {
+      "merchant": "fraud_Zemlak, Tillman and Cremin",
+      "category": "personal_care"
+    },
+    {
+      "merchant": "fraud_Ziemann-Waters",
+      "category": "health_fitness"
+    },
+    {
+      "merchant": "fraud_Zieme, Bode and Dooley",
+      "category": "gas_transport"
+    },
+    {
+      "merchant": "fraud_Zulauf LLC",
+      "category": "personal_care"
+    }
+  ],
+  "top_cities_by_merchant_fraud": [
+    {
+      "city": "Houston",
+      "state": "TX",
+      "fraud_count": 39,
+      "fraud_amount": 21667.21
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "fraud_count": 39,
+      "fraud_amount": 26571.84
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "fraud_count": 35,
+      "fraud_amount": 21187.82
+    },
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "fraud_count": 33,
+      "fraud_amount": 15835.68
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
+      "fraud_count": 31,
+      "fraud_amount": 16280.0
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "fraud_count": 29,
+      "fraud_amount": 15142.79
+    },
+    {
+      "city": "Naples",
+      "state": "FL",
+      "fraud_count": 29,
+      "fraud_amount": 17220.43
+    },
+    {
+      "city": "Tulsa",
+      "state": "OK",
+      "fraud_count": 27,
+      "fraud_amount": 17470.25
+    },
+    {
+      "city": "Topeka",
+      "state": "KS",
+      "fraud_count": 27,
+      "fraud_amount": 12976.29
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX",
+      "fraud_count": 25,
+      "fraud_amount": 14536.75
+    },
+    {
+      "city": "Albuquerque",
+      "state": "NM",
+      "fraud_count": 24,
+      "fraud_amount": 11722.84
+    },
+    {
+      "city": "Clearwater",
+      "state": "FL",
+      "fraud_count": 24,
+      "fraud_amount": 9571.66
+    },
+    {
+      "city": "Beaver Falls",
+      "state": "PA",
+      "fraud_count": 24,
+      "fraud_amount": 12071.98
+    },
+    {
+      "city": "Des Moines",
+      "state": "IA",
+      "fraud_count": 23,
+      "fraud_amount": 10851.75
+    },
+    {
+      "city": "Aurora",
+      "state": "CO",
+      "fraud_count": 23,
+      "fraud_amount": 12298.8
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "fraud_count": 23,
+      "fraud_amount": 13956.59
+    },
+    {
+      "city": "Warren",
+      "state": "MI",
+      "fraud_count": 23,
+      "fraud_amount": 11843.15
+    },
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "fraud_count": 22,
+      "fraud_amount": 14027.27
+    },
+    {
+      "city": "Lakeland",
+      "state": "FL",
+      "fraud_count": 21,
+      "fraud_amount": 13211.61
+    },
+    {
+      "city": "Fenelton",
+      "state": "PA",
+      "fraud_count": 21,
+      "fraud_amount": 12571.88
+    }
+  ]
+}

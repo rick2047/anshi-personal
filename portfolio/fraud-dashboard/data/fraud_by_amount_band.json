@@ -1,0 +1,27 @@
+[
+  {
+    "amount_band": "Micro",
+    "fraud_count": 672,
+    "fraud_amount": 5440.23
+  },
+  {
+    "amount_band": "Small",
+    "fraud_count": 1397,
+    "fraud_amount": 26021.17
+  },
+  {
+    "amount_band": "Medium",
+    "fraud_count": 390,
+    "fraud_amount": 57653.84
+  },
+  {
+    "amount_band": "High",
+    "fraud_count": 5966,
+    "fraud_amount": 3707968.28
+  },
+  {
+    "amount_band": "Very High",
+    "fraud_count": 1226,
+    "fraud_amount": 1324329.77
+  }
+]

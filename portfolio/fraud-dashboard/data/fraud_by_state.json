@@ -1,0 +1,512 @@
+[
+  {
+    "state": "AK",
+    "fraud_count": 50,
+    "fraud_amount": 30219.89,
+    "avg_fraud_amount": 604.4,
+    "lat": 62.7898,
+    "long": -152.0656,
+    "total_transactions": 2963,
+    "fraud_rate": 0.016875
+  },
+  {
+    "state": "AL",
+    "fraud_count": 278,
+    "fraud_amount": 149071.5,
+    "avg_fraud_amount": 536.23,
+    "lat": 32.9804,
+    "long": -86.8502,
+    "total_transactions": 58521,
+    "fraud_rate": 0.00475
+  },
+  {
+    "state": "AR",
+    "fraud_count": 195,
+    "fraud_amount": 97745.03,
+    "avg_fraud_amount": 501.26,
+    "lat": 35.2096,
+    "long": -92.2274,
+    "total_transactions": 44611,
+    "fraud_rate": 0.004371
+  },
+  {
+    "state": "AZ",
+    "fraud_count": 64,
+    "fraud_amount": 32453.45,
+    "avg_fraud_amount": 507.09,
+    "lat": 33.9586,
+    "long": -111.934,
+    "total_transactions": 15362,
+    "fraud_rate": 0.004166
+  },
+  {
+    "state": "CA",
+    "fraud_count": 402,
+    "fraud_amount": 205938.98,
+    "avg_fraud_amount": 512.29,
+    "lat": 36.6771,
+    "long": -119.9997,
+    "total_transactions": 80495,
+    "fraud_rate": 0.004994
+  },
+  {
+    "state": "CO",
+    "fraud_count": 115,
+    "fraud_amount": 59451.97,
+    "avg_fraud_amount": 516.97,
+    "lat": 39.5251,
+    "long": -104.8634,
+    "total_transactions": 19766,
+    "fraud_rate": 0.005818
+  },
+  {
+    "state": "CT",
+    "fraud_count": 56,
+    "fraud_amount": 28765.65,
+    "avg_fraud_amount": 513.67,
+    "lat": 41.6699,
+    "long": -72.709,
+    "total_transactions": 10979,
+    "fraud_rate": 0.005101
+  },
+  {
+    "state": "DC",
+    "fraud_count": 31,
+    "fraud_amount": 16280.0,
+    "avg_fraud_amount": 525.16,
+    "lat": 38.9402,
+    "long": -77.0203,
+    "total_transactions": 5130,
+    "fraud_rate": 0.006043
+  },
+  {
+    "state": "DE",
+    "fraud_count": 9,
+    "fraud_amount": 4630.44,
+    "avg_fraud_amount": 514.49,
+    "lat": 38.679,
+    "long": -75.3932,
+    "total_transactions": 9,
+    "fraud_rate": 1.0
+  },
+  {
+    "state": "FL",
+    "fraud_count": 334,
+    "fraud_amount": 173647.55,
+    "avg_fraud_amount": 519.9,
+    "lat": 27.8283,
+    "long": -82.095,
+    "total_transactions": 60775,
+    "fraud_rate": 0.005496
+  },
+  {
+    "state": "GA",
+    "fraud_count": 204,
+    "fraud_amount": 111274.86,
+    "avg_fraud_amount": 545.46,
+    "lat": 32.0557,
+    "long": -83.2065,
+    "total_transactions": 37340,
+    "fraud_rate": 0.005463
+  },
+  {
+    "state": "HI",
+    "fraud_count": 16,
+    "fraud_amount": 10091.51,
+    "avg_fraud_amount": 630.72,
+    "lat": 20.0584,
+    "long": -155.4362,
+    "total_transactions": 3649,
+    "fraud_rate": 0.004385
+  },
+  {
+    "state": "IA",
+    "fraud_count": 211,
+    "fraud_amount": 104813.21,
+    "avg_fraud_amount": 496.75,
+    "lat": 41.8464,
+    "long": -93.3633,
+    "total_transactions": 38804,
+    "fraud_rate": 0.005438
+  },
+  {
+    "state": "ID",
+    "fraud_count": 33,
+    "fraud_amount": 17442.11,
+    "avg_fraud_amount": 528.55,
+    "lat": 44.796,
+    "long": -115.5456,
+    "total_transactions": 8035,
+    "fraud_rate": 0.004107
+  },
+  {
+    "state": "IL",
+    "fraud_count": 324,
+    "fraud_amount": 164099.44,
+    "avg_fraud_amount": 506.48,
+    "lat": 39.714,
+    "long": -89.2321,
+    "total_transactions": 62212,
+    "fraud_rate": 0.005208
+  },
+  {
+    "state": "IN",
+    "fraud_count": 217,
+    "fraud_amount": 124965.52,
+    "avg_fraud_amount": 575.88,
+    "lat": 39.8328,
+    "long": -86.496,
+    "total_transactions": 39539,
+    "fraud_rate": 0.005488
+  },
+  {
+    "state": "KS",
+    "fraud_count": 193,
+    "fraud_amount": 102586.32,
+    "avg_fraud_amount": 531.54,
+    "lat": 38.5655,
+    "long": -97.6668,
+    "total_transactions": 32939,
+    "fraud_rate": 0.005859
+  },
+  {
+    "state": "KY",
+    "fraud_count": 222,
+    "fraud_amount": 126911.9,
+    "avg_fraud_amount": 571.68,
+    "lat": 37.5294,
+    "long": -84.9012,
+    "total_transactions": 40981,
+    "fraud_rate": 0.005417
+  },
+  {
+    "state": "LA",
+    "fraud_count": 113,
+    "fraud_amount": 59171.17,
+    "avg_fraud_amount": 523.64,
+    "lat": 30.6387,
+    "long": -90.9185,
+    "total_transactions": 29953,
+    "fraud_rate": 0.003773
+  },
+  {
+    "state": "MA",
+    "fraud_count": 87,
+    "fraud_amount": 50314.6,
+    "avg_fraud_amount": 578.33,
+    "lat": 42.3502,
+    "long": -71.686,
+    "total_transactions": 17562,
+    "fraud_rate": 0.004954
+  },
+  {
+    "state": "MD",
+    "fraud_count": 203,
+    "fraud_amount": 103703.57,
+    "avg_fraud_amount": 510.86,
+    "lat": 39.0599,
+    "long": -76.6814,
+    "total_transactions": 37345,
+    "fraud_rate": 0.005436
+  },
+  {
+    "state": "ME",
+    "fraud_count": 134,
+    "fraud_amount": 74910.7,
+    "avg_fraud_amount": 559.04,
+    "lat": 44.1037,
+    "long": -69.9157,
+    "total_transactions": 23433,
+    "fraud_rate": 0.005718
+  },
+  {
+    "state": "MI",
+    "fraud_count": 299,
+    "fraud_amount": 158765.56,
+    "avg_fraud_amount": 530.99,
+    "lat": 43.6287,
+    "long": -84.364,
+    "total_transactions": 65825,
+    "fraud_rate": 0.004542
+  },
+  {
+    "state": "MN",
+    "fraud_count": 280,
+    "fraud_amount": 148534.9,
+    "avg_fraud_amount": 530.48,
+    "lat": 45.8007,
+    "long": -94.1066,
+    "total_transactions": 45433,
+    "fraud_rate": 0.006163
+  },
+  {
+    "state": "MO",
+    "fraud_count": 262,
+    "fraud_amount": 131315.28,
+    "avg_fraud_amount": 501.2,
+    "lat": 38.7676,
+    "long": -92.5919,
+    "total_transactions": 54904,
+    "fraud_rate": 0.004772
+  },
+  {
+    "state": "MS",
+    "fraud_count": 169,
+    "fraud_amount": 94575.58,
+    "avg_fraud_amount": 559.62,
+    "lat": 32.7768,
+    "long": -89.8247,
+    "total_transactions": 30021,
+    "fraud_rate": 0.005629
+  },
+  {
+    "state": "MT",
+    "fraud_count": 69,
+    "fraud_amount": 34337.77,
+    "avg_fraud_amount": 497.65,
+    "lat": 46.7405,
+    "long": -111.1154,
+    "total_transactions": 16806,
+    "fraud_rate": 0.004106
+  },
+  {
+    "state": "NC",
+    "fraud_count": 195,
+    "fraud_amount": 92544.29,
+    "avg_fraud_amount": 474.59,
+    "lat": 35.522,
+    "long": -79.6325,
+    "total_transactions": 43134,
+    "fraud_rate": 0.004521
+  },
+  {
+    "state": "ND",
+    "fraud_count": 84,
+    "fraud_amount": 48407.0,
+    "avg_fraud_amount": 576.27,
+    "lat": 47.3805,
+    "long": -100.0664,
+    "total_transactions": 21183,
+    "fraud_rate": 0.003965
+  },
+  {
+    "state": "NE",
+    "fraud_count": 216,
+    "fraud_amount": 119493.07,
+    "avg_fraud_amount": 553.21,
+    "lat": 41.0975,
+    "long": -98.1005,
+    "total_transactions": 34425,
+    "fraud_rate": 0.006275
+  },
+  {
+    "state": "NH",
+    "fraud_count": 79,
+    "fraud_amount": 47692.99,
+    "avg_fraud_amount": 603.71,
+    "lat": 43.4372,
+    "long": -71.7111,
+    "total_transactions": 11727,
+    "fraud_rate": 0.006737
+  },
+  {
+    "state": "NJ",
+    "fraud_count": 161,
+    "fraud_amount": 92363.48,
+    "avg_fraud_amount": 573.69,
+    "lat": 40.3639,
+    "long": -74.4823,
+    "total_transactions": 35131,
+    "fraud_rate": 0.004583
+  },
+  {
+    "state": "NM",
+    "fraud_count": 121,
+    "fraud_amount": 70597.2,
+    "avg_fraud_amount": 583.45,
+    "lat": 35.0225,
+    "long": -106.1486,
+    "total_transactions": 23427,
+    "fraud_rate": 0.005165
+  },
+  {
+    "state": "NV",
+    "fraud_count": 47,
+    "fraud_amount": 24793.48,
+    "avg_fraud_amount": 527.52,
+    "lat": 38.3204,
+    "long": -117.8008,
+    "total_transactions": 8058,
+    "fraud_rate": 0.005833
+  },
+  {
+    "state": "NY",
+    "fraud_count": 730,
+    "fraud_amount": 395295.32,
+    "avg_fraud_amount": 541.5,
+    "lat": 42.0946,
+    "long": -74.9158,
+    "total_transactions": 119419,
+    "fraud_rate": 0.006113
+  },
+  {
+    "state": "OH",
+    "fraud_count": 360,
+    "fraud_amount": 192000.44,
+    "avg_fraud_amount": 533.33,
+    "lat": 40.2254,
+    "long": -82.8313,
+    "total_transactions": 66627,
+    "fraud_rate": 0.005403
+  },
+  {
+    "state": "OK",
+    "fraud_count": 200,
+    "fraud_amount": 101130.11,
+    "avg_fraud_amount": 505.65,
+    "lat": 35.6359,
+    "long": -97.2299,
+    "total_transactions": 38050,
+    "fraud_rate": 0.005256
+  },
+  {
+    "state": "OR",
+    "fraud_count": 197,
+    "fraud_amount": 103019.63,
+    "avg_fraud_amount": 522.94,
+    "lat": 44.5915,
+    "long": -122.0764,
+    "total_transactions": 26408,
+    "fraud_rate": 0.00746
+  },
+  {
+    "state": "PA",
+    "fraud_count": 572,
+    "fraud_amount": 307432.28,
+    "avg_fraud_amount": 537.47,
+    "lat": 40.696,
+    "long": -78.3855,
+    "total_transactions": 114173,
+    "fraud_rate": 0.00501
+  },
+  {
+    "state": "RI",
+    "fraud_count": 15,
+    "fraud_amount": 10994.76,
+    "avg_fraud_amount": 732.98,
+    "lat": 41.8383,
+    "long": -71.4377,
+    "total_transactions": 745,
+    "fraud_rate": 0.020134
+  },
+  {
+    "state": "SC",
+    "fraud_count": 236,
+    "fraud_amount": 110950.98,
+    "avg_fraud_amount": 470.13,
+    "lat": 33.7761,
+    "long": -81.3257,
+    "total_transactions": 41731,
+    "fraud_rate": 0.005655
+  },
+  {
+    "state": "SD",
+    "fraud_count": 92,
+    "fraud_amount": 49020.07,
+    "avg_fraud_amount": 532.83,
+    "lat": 44.4446,
+    "long": -100.0952,
+    "total_transactions": 17574,
+    "fraud_rate": 0.005235
+  },
+  {
+    "state": "TN",
+    "fraud_count": 159,
+    "fraud_amount": 83872.86,
+    "avg_fraud_amount": 527.5,
+    "lat": 35.8258,
+    "long": -86.0169,
+    "total_transactions": 24913,
+    "fraud_rate": 0.006382
+  },
+  {
+    "state": "TX",
+    "fraud_count": 592,
+    "fraud_amount": 318116.81,
+    "avg_fraud_amount": 537.36,
+    "lat": 31.5245,
+    "long": -97.9809,
+    "total_transactions": 135269,
+    "fraud_rate": 0.004376
+  },
+  {
+    "state": "UT",
+    "fraud_count": 61,
+    "fraud_amount": 25224.63,
+    "avg_fraud_amount": 413.52,
+    "lat": 39.6326,
+    "long": -110.8478,
+    "total_transactions": 15357,
+    "fraud_rate": 0.003972
+  },
+  {
+    "state": "VA",
+    "fraud_count": 273,
+    "fraud_amount": 143557.76,
+    "avg_fraud_amount": 525.85,
+    "lat": 38.0122,
+    "long": -78.1239,
+    "total_transactions": 41756,
+    "fraud_rate": 0.006538
+  },
+  {
+    "state": "VT",
+    "fraud_count": 72,
+    "fraud_amount": 44472.2,
+    "avg_fraud_amount": 617.67,
+    "lat": 44.0684,
+    "long": -72.895,
+    "total_transactions": 16812,
+    "fraud_rate": 0.004283
+  },
+  {
+    "state": "WA",
+    "fraud_count": 126,
+    "fraud_amount": 59385.68,
+    "avg_fraud_amount": 471.31,
+    "lat": 47.5148,
+    "long": -120.367,
+    "total_transactions": 27040,
+    "fraud_rate": 0.00466
+  },
+  {
+    "state": "WI",
+    "fraud_count": 228,
+    "fraud_amount": 130148.22,
+    "avg_fraud_amount": 570.83,
+    "lat": 43.9425,
+    "long": -89.3521,
+    "total_transactions": 41738,
+    "fraud_rate": 0.005463
+  },
+  {
+    "state": "WV",
+    "fraud_count": 146,
+    "fraud_amount": 76322.32,
+    "avg_fraud_amount": 522.76,
+    "lat": 38.4382,
+    "long": -80.5745,
+    "total_transactions": 36529,
+    "fraud_rate": 0.003997
+  },
+  {
+    "state": "WY",
+    "fraud_count": 119,
+    "fraud_amount": 58559.25,
+    "avg_fraud_amount": 492.09,
+    "lat": 42.6189,
+    "long": -108.3073,
+    "total_transactions": 27776,
+    "fraud_rate": 0.004284
+  }
+]

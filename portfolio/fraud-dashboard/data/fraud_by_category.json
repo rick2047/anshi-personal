@@ -1,0 +1,114 @@
+[
+  {
+    "category": "entertainment",
+    "fraud_count": 292,
+    "fraud_amount": 147399.96,
+    "avg_fraud_amount": 504.79,
+    "total_transactions": 134118,
+    "fraud_rate": 0.002177
+  },
+  {
+    "category": "food_dining",
+    "fraud_count": 205,
+    "fraud_amount": 24739.16,
+    "avg_fraud_amount": 120.68,
+    "total_transactions": 130729,
+    "fraud_rate": 0.001568
+  },
+  {
+    "category": "gas_transport",
+    "fraud_count": 772,
+    "fraud_amount": 9442.53,
+    "avg_fraud_amount": 12.23,
+    "total_transactions": 188029,
+    "fraud_rate": 0.004106
+  },
+  {
+    "category": "grocery_net",
+    "fraud_count": 175,
+    "fraud_amount": 2108.21,
+    "avg_fraud_amount": 12.05,
+    "total_transactions": 64878,
+    "fraud_rate": 0.002697
+  },
+  {
+    "category": "grocery_pos",
+    "fraud_count": 2228,
+    "fraud_amount": 695664.62,
+    "avg_fraud_amount": 312.24,
+    "total_transactions": 176191,
+    "fraud_rate": 0.012645
+  },
+  {
+    "category": "health_fitness",
+    "fraud_count": 185,
+    "fraud_amount": 3751.36,
+    "avg_fraud_amount": 20.28,
+    "total_transactions": 122553,
+    "fraud_rate": 0.00151
+  },
+  {
+    "category": "home",
+    "fraud_count": 265,
+    "fraud_amount": 68231.96,
+    "avg_fraud_amount": 257.48,
+    "total_transactions": 175460,
+    "fraud_rate": 0.00151
+  },
+  {
+    "category": "kids_pets",
+    "fraud_count": 304,
+    "fraud_amount": 5619.53,
+    "avg_fraud_amount": 18.49,
+    "total_transactions": 161727,
+    "fraud_rate": 0.00188
+  },
+  {
+    "category": "misc_net",
+    "fraud_count": 1182,
+    "fraud_amount": 944009.71,
+    "avg_fraud_amount": 798.65,
+    "total_transactions": 90654,
+    "fraud_rate": 0.013039
+  },
+  {
+    "category": "misc_pos",
+    "fraud_count": 322,
+    "fraud_amount": 68494.84,
+    "avg_fraud_amount": 212.72,
+    "total_transactions": 114229,
+    "fraud_rate": 0.002819
+  },
+  {
+    "category": "personal_care",
+    "fraud_count": 290,
+    "fraud_amount": 7571.96,
+    "avg_fraud_amount": 26.11,
+    "total_transactions": 130085,
+    "fraud_rate": 0.002229
+  },
+  {
+    "category": "shopping_net",
+    "fraud_count": 2219,
+    "fraud_amount": 2214847.64,
+    "avg_fraud_amount": 998.13,
+    "total_transactions": 139322,
+    "fraud_rate": 0.015927
+  },
+  {
+    "category": "shopping_pos",
+    "fraud_count": 1056,
+    "fraud_amount": 928132.34,
+    "avg_fraud_amount": 878.91,
+    "total_transactions": 166463,
+    "fraud_rate": 0.006344
+  },
+  {
+    "category": "travel",
+    "fraud_count": 156,
+    "fraud_amount": 1399.47,
+    "avg_fraud_amount": 8.97,
+    "total_transactions": 57956,
+    "fraud_rate": 0.002692
+  }
+]

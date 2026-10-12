@@ -1,0 +1,40 @@
+{
+  "quarters": [
+    {
+      "quarter": "Q1",
+      "fraud_count": 2640,
+      "non_fraud_count": 343533,
+      "fraud_amount": 1374104.62,
+      "non_fraud_amount": 23213318.66,
+      "fraud_median_amount": 360.4,
+      "non_fraud_median_amount": 47.41
+    },
+    {
+      "quarter": "Q2",
+      "fraud_count": 2434,
+      "non_fraud_count": 453280,
+      "fraud_amount": 1283726.1,
+      "non_fraud_amount": 30696968.92,
+      "fraud_median_amount": 370.12,
+      "non_fraud_median_amount": 47.35
+    },
+    {
+      "quarter": "Q3",
+      "fraud_count": 2207,
+      "non_fraud_count": 486540,
+      "fraud_amount": 1180484.0,
+      "non_fraud_amount": 32843356.8,
+      "fraud_median_amount": 436.78,
+      "non_fraud_median_amount": 47.05
+    },
+    {
+      "quarter": "Q4",
+      "fraud_count": 2370,
+      "non_fraud_count": 559390,
+      "fraud_amount": 1283098.57,
+      "non_fraud_amount": 37910274.34,
+      "fraud_median_amount": 498.26,
+      "non_fraud_median_amount": 47.23
+    }
+  ]
+}

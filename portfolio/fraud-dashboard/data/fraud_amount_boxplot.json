@@ -1,0 +1,20 @@
+{
+  "fraud": {
+    "min": 1.06,
+    "q1": 240.07,
+    "median": 390.0,
+    "q3": 902.37,
+    "max": 1376.04,
+    "lower_whisker": 1.06,
+    "upper_whisker": 1376.04
+  },
+  "non_fraud": {
+    "min": 1.0,
+    "q1": 9.61,
+    "median": 47.24,
+    "q3": 82.56,
+    "max": 28948.9,
+    "lower_whisker": 1.0,
+    "upper_whisker": 191.99
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "bin_start": 0.0,
+    "bin_end": 68.8,
+    "fraud_count": 2123
+  },
+  {
+    "bin_start": 68.8,
+    "bin_end": 137.6,
+    "fraud_count": 183
+  },
+  {
+    "bin_start": 137.6,
+    "bin_end": 206.41,
+    "fraud_count": 33
+  },
+  {
+    "bin_start": 206.41,
+    "bin_end": 275.21,
+    "fraud_count": 343
+  },
+  {
+    "bin_start": 275.21,
+    "bin_end": 344.01,
+    "fraud_count": 1851
+  },
+  {
+    "bin_start": 344.01,
+    "bin_end": 412.81,
+    "fraud_count": 319
+  },
+  {
+    "bin_start": 412.81,
+    "bin_end": 481.61,
+    "fraud_count": 83
+  },
+  {
+    "bin_start": 481.61,
+    "bin_end": 550.42,
+    "fraud_count": 96
+  },
+  {
+    "bin_start": 550.42,
+    "bin_end": 619.22,
+    "fraud_count": 76
+  },
+  {
+    "bin_start": 619.22,
+    "bin_end": 688.02,
+    "fraud_count": 153
+  },
+  {
+    "bin_start": 688.02,
+    "bin_end": 756.82,
+    "fraud_count": 429
+  },
+  {
+    "bin_start": 756.82,
+    "bin_end": 825.62,
+    "fraud_count": 689
+  },
+  {
+    "bin_start": 825.62,
+    "bin_end": 894.43,
+    "fraud_count": 764
+  },
+  {
+    "bin_start": 894.43,
+    "bin_end": 963.23,
+    "fraud_count": 827
+  },
+  {
+    "bin_start": 963.23,
+    "bin_end": 1032.03,
+    "fraud_count": 792
+  },
+  {
+    "bin_start": 1032.03,
+    "bin_end": 1100.83,
+    "fraud_count": 499
+  },
+  {
+    "bin_start": 1100.83,
+    "bin_end": 1169.63,
+    "fraud_count": 279
+  },
+  {
+    "bin_start": 1169.63,
+    "bin_end": 1238.44,
+    "fraud_count": 81
+  },
+  {
+    "bin_start": 1238.44,
+    "bin_end": 1307.24,
+    "fraud_count": 22
+  },
+  {
+    "bin_start": 1307.24,
+    "bin_end": 1376.04,
+    "fraud_count": 8
+  }
+]
